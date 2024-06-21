@@ -79,8 +79,8 @@ body {
    content: "";
    position: absolute;
    width: 6px;
-   height: 80px;
-   background-color: #494c97;
+   height: 70px;
+   background-color: #1abc9c;
    border-radius: 6px 6px 0 0;
    z-index: 10;
 }
@@ -90,7 +90,7 @@ body {
    position: absolute;
    width: 4px;
    height: 90px;
-   background-color: #feff00;
+   background-color: #e67e22;
    border-radius: 6px 6px 0 0;
    z-index: 11;
 }
@@ -99,8 +99,8 @@ body {
    content: "";
    position: absolute;
    width: 2px;
-   height: 150px;
-   background-color: #fff;
+   height: 120px;
+   background-color: #f39c12;
    border-radius: 6px 6px 0 0;
    z-index: 12;
 }
